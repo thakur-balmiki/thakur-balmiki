@@ -66,10 +66,6 @@ I'm an innovative and results‑driven **Solution Architect** with **13+ years o
 ## 🔗 **Connect With Me**
 
 - 📧 Email: **Thakur.Balmiki@live.com**
-- 🌐 LinkedIn: *Add your link here*
-- 💻 GitHub: *Add your link here*
-
----
 
 ## 🧩 **Fun Fact**
 > *I love solving architectural problems, building scalable systems, and occasionally smashing volleyballs on the court!* 😄
